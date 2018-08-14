@@ -1,4 +1,4 @@
-# SUMMER PALACE
+# MANAGEMENT SYSTEM
 
 ## Setup
 * git clone `git@github.com:EvanBrightside/management-system.git`
