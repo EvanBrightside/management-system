@@ -1,24 +1,15 @@
-# README
+# SUMMER PALACE
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Setup
+* git clone `git@github.com:EvanBrightside/management-system.git`
+* bundle install
+* rails db:setup
+* rails db:migrate
+* rails s
 
-Things you may want to cover:
+## Tech
+* Ruby on Rails 5.2.1
+* Ruby 2.5.0
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Usage
+* admin panel - http://localhost:3000/
